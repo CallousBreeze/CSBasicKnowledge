@@ -58,3 +58,7 @@
 
 - 你的指法真的标准吗？打字练习一下：\[[zh-cn](https://qwerty.kaiyi.cool/)\]
 - 利用学生身份可以享受到的相关学生优惠权益: [[Github](https://github.com/ivmm/Student-resources)]
+
+## 网安
+- 网络安全在线资源导航：\[[zh-cn](http://guide.124012.xyz/)\]
+- CTF WIKI\[[wiki](https://ctf-wiki.org/)\]
